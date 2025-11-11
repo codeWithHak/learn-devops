@@ -1,6 +1,6 @@
 # Learn DevOps
 
-This repo documents my continuous DevOps learning journey from ground zero to production-ready skills, covering Linux fundamentals to Kubernetes orchestration on Ubuntu.
+This repo documents my DevOps learning journey from ground zero to production-ready skills, covering Linux fundamentals to Kubernetes orchestration on Ubuntu.
 
 ## Timeline
 **Course Start Date:** November 12, 2025  
