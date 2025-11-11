@@ -8,7 +8,7 @@ This repo documents my DevOps learning journey from ground zero to production-re
 **Learning Approach:** Lifelong continuous learning
 
 ## Goal
-Master core DevOps tools and practices to become a proficient DevOps Engineer through consistent hands-on learning. This is a continuous journey where I'll complete the foundational course in 60 days and keep expanding my knowledge beyond.
+Adding DevOps skills to my backend toolkit to handle the full development lifecycle from code to deployment.
 
 ## Course Following
 [Complete DevOps Roadmap 2025 by DevOps Molvi](https://youtu.be/m1zOhVum4oM?si=u1TH2nScl9VKAa_M)
