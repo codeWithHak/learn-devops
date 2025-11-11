@@ -1,4 +1,4 @@
-# DevOps Learning Journey
+# Learn DevOps
 
 This repo documents my continuous DevOps learning journey from ground zero to production-ready skills, covering Linux fundamentals to Kubernetes orchestration on Ubuntu.
 
