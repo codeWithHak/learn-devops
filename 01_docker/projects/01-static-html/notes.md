@@ -30,3 +30,7 @@ docker system prune
 When you are just testing things out, use the --rm flag in your run command:
 docker run --rm -p 8000:80 static-html
 The Magic: As soon as you stop this container (or hit Ctrl+C), Docker automatically deletes the container. Now you can go straight to docker rmi without the "Conflict" error.
+
+**docker run vs docker start**
+docker run is for creating a new container: docker run -d -p8000:80 static-html
+docker start is for restarting a stopped container: docker start <container_id>
